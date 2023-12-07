@@ -8,7 +8,7 @@ This project automates sentiment analysis for YouTube video comments, providing 
 
 - **YouTube API Integration:** Utilizes the YouTube Data API to retrieve comments.
 - **Scalable Sentiment Analysis Model:** Implements a Bidirectional LSTM neural network.
-- 
+  
 ## Getting Started
 
 Follow these steps to set up and run the sentiment analysis on your YouTube video comments.
